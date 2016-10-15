@@ -1,4 +1,4 @@
-# RepeatedString
+# RepeatedString (From HackerRank.com)
 
 Lilah has a string, s, of lowercase English letters that she repeated infinitely many times.
 
